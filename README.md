@@ -1,7 +1,7 @@
 wifisignal
 ==========
 
-A nifty script to email you when the wifi signal of a specified device gets out of a certain distance
+A nifty script to email you when the wifi signal of a specified device gets out of a certain range
 
 Script is currently setup to measure connectivity to a bluetooth device.
 
